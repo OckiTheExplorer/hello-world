@@ -1,2 +1,6 @@
 # hello-world
-The beginning
+
+TODO
+
+1. Stuff need to be done
+2. Code need to be done 
